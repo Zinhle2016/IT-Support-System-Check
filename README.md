@@ -20,6 +20,8 @@ The following system details were identified:
 - System Type: 64-bit Operating System
 
 Screenshot: System Information
+<img width="1494" height="758" alt="Screenshot 1" src="https://github.com/user-attachments/assets/23e7620c-61ea-40d2-b803-f5364de0be07" />
+
 
 ---
 
@@ -37,6 +39,8 @@ This command displayed important network details including:
 These details confirm that the computer is connected to a network.
 
 Screenshot: ipconfig command result
+<img width="979" height="513" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1149c5de-cd11-448d-8d55-fcbc6d100723" />
+
 
 ---
 
@@ -49,6 +53,8 @@ ping google.com
 The results showed replies from Google's server, confirming that the computer had an active internet connection.
 
 Screenshot: Successful ping result
+<img width="982" height="239" alt="Screenshot 3" src="https://github.com/user-attachments/assets/6ab9d807-112b-4ea9-a76e-76adfb5de868" />
+
 
 ---
 
@@ -61,6 +67,8 @@ Command used:
 ping google.com
 
 Screenshot: Network disconnection error
+<img width="978" height="515" alt="Screenshot 4" src="https://github.com/user-attachments/assets/3307eb4d-ea7a-479b-bafb-4964d3950660" />
+
 
 ---
 
@@ -81,6 +89,8 @@ ping google.com
 The system successfully received replies from the server, confirming that the internet connection had been restored.
 
 Screenshot: Successful connection after troubleshooting
+<img width="979" height="512" alt="Screenshot 5" src="https://github.com/user-attachments/assets/0e28849d-7d93-488c-96e9-7a819c602867" />
+
 
 ---
 
